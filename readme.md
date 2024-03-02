@@ -1,5 +1,5 @@
 # Full-body Human Motion Reconstruction with Sparse Joint Tracking Using Flexible Sensors
-This is the code for our paper "Full-body Human Motion Reconstruction with Sparse Joint Tracking Using Flexible Sensors"
+This is the code for our [paper](https://doi.org/10.1145/3564700) "Full-body Human Motion Reconstruction with Sparse Joint Tracking Using Flexible Sensors"
 published in ACM Transactions on Multimedia Computing, Communications and Applications.
 ## Hardware requirements
 
